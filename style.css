@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+
+}
+
+.header {
+    background-color: #FCD751;
+    width: 100%;
+    height: 130px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.bio-box {
+    background-color: lightcyan;
+    color: blue;
+    height: 400px;
+    float: left;
+    width: 70%;
+}
+
+.coding-logo {
+    float: right;
+    width: 30%;
+    height: 400px;
+
+    
+}
+
+
+
+
+.intro {
+      font-family: 'Noto Serif SC', serif;
+      color:darkblue;
+      font-size:15px;
+
+}
+
+.karting {
+    width: 215px;
+    margin: 20px 0px 0px 0px;
+} 
+
+.f1-car {
+    width:275px;
+    height: 165px;
+    margin: 20px 0px 0px 0px;
+}
+
+.aus {
+    width:250px;
+    height:145px;
+    margin:20px 0px 0px 0px;
+
+}
+
+.phl  {
+    width: 250px;
+    height: 175px;
+    margin: 20px 0px 0px 0px;
+
+
+}
+
